@@ -12,7 +12,7 @@ menu:
   - title:  Home
     url:    /
   - title:  Templates
-    url:    /templates/
+    url:    /Templates/
   - title:  convnwb
     url:    /convnwb
   - title:  spiketools
