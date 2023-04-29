@@ -12,6 +12,6 @@ menu:
   - title:  Home
     url:    /
   - title:  convnwb
-    url:    /convnwb/
+    url:    /convnwb
   - title:  spiketools
-    url:    /spiketools/
+    url:    /spiketools
