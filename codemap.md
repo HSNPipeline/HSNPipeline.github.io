@@ -1,5 +1,5 @@
 ---
-title: codemap
+title: CodeMap
 layout: page
 permalink: /codemap/
 ---
