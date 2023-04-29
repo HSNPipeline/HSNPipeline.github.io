@@ -1,6 +1,7 @@
 ---
-title: Templates
+title: templates
 layout: page
+permalink: /templates/
 ---
 
 Overview of the templates available on HSUPipeline.

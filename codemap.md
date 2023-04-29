@@ -1,6 +1,7 @@
 ---
-title: CodeMap
+title: codemap
 layout: page
+permalink: /codemap/
 ---
 
 This file is a map of the repositories that are publicly available on the HSUPipeline Github organization.

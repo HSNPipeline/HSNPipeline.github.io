@@ -1,6 +1,7 @@
 ---
-title: Projects
+title: projects
 layout: page
+permalink: /projects/
 ---
 
 List of public projects avaialable on HSUPipeline.
