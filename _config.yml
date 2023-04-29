@@ -11,6 +11,8 @@ author:
 menu:
   - title:  Home
     url:    /
+  - title:  Templates
+    url:    /templates
   - title:  convnwb
     url:    /convnwb
   - title:  spiketools
