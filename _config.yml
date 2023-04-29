@@ -7,3 +7,9 @@ author:
   social:
     github: HSUPipeline
     twitter: TomDonoghue
+
+menu:
+  - title:  Home
+    url:    /
+  - title:  convnwb
+    url:    /convnwb/
