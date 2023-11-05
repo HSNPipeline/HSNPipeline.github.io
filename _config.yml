@@ -13,6 +13,8 @@ menu:
     url:    /
   - title:  Templates
     url:    /templates/
+  - title:  Guide
+    url:    /guide/
   - title:  CodeMap
     url:    /codemap/
   - title:  Projects
