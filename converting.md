@@ -45,20 +45,20 @@ based on using [HDF5](https://www.hdfgroup.org/solutions/hdf5/) files.
 In order to interact read and write NWB files, we use the
 [pynwb](https://pynwb.readthedocs.io/en/stable/) Python library.
 
-### convnwb
+### hsntools
 
 The underlying general functionality is all implemented in the
-[convnwb](https://github.com/HSUPipeline/convnwb) module.
+[hsntools](https://github.com/HSNPipeline/hsntools) module.
 This module is then aliased into the `conv` folder, on top
 of which any needed customizations and additions can be made.
 
 ## ConvertTEMPLATE
 
-The [ConvertTEMPLATE](https://github.com/HSUPipeline/ConvertTEMPLATE)
+The [ConvertTEMPLATE](https://github.com/HSNPipeline/ConvertTEMPLATE)
 provides a template structure for converting various data sources into NWB.
 
 Files to be processed will need to be organized into a consistent layout,
-which should follow the directory structure used by `convnwb`.
+which should follow the directory structure used by `hsntools`.
 
 To do so, the template includes:
 
@@ -84,7 +84,7 @@ In order to apply this template to a new task, the following updates are needed:
 - the scripts and settings need updating for any custom settings / procedures
     - this may include defining and using `settings`, and/or custom processing steps
 - data files need to organized into a systematic file organization
-    - this should be done following the directory layout used by `convnwb`
+    - this should be done following the directory layout used by `hsntools`
 
 After the above, this template should be able to be used for converting data files!
 
