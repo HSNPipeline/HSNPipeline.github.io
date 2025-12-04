@@ -5,7 +5,7 @@ permalink: /converting/
 ---
 
 The second step in the template is data conversion, including collecting and converting
-human single-unit data along with a structured representation of any and all behavioural
+human single-neuron data along with a structured representation of any and all behavioural
 data and task information such that all the information can be organized together into
 standard data files.
 
@@ -20,7 +20,7 @@ data format - specifically the [Neurodata Without Borders format](https://www.nw
 
 Note that this template does not implement any data standards, etc, but
 rather provides a structured approach to use existing tools to organize data
-human single unit experiments (see the Resources section for what is used).
+human single-neuron experiments (see the Resources section for what is used).
 
 ## Data Streams
 
